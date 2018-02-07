@@ -1,0 +1,11 @@
+.project
+bin/
+target/
+.classpath
+.settings
+<<<<<<< HEAD
+!database/*
+=======
+database/*
+>>>>>>> master
+.idea/
